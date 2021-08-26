@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics, physics, video games, and much more!
 - 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ... linkdin: linkedin.com/in/patrick-ducusin-879b25208
+- 📫 How to reach me ... linkedin: linkedin.com/in/patrick-ducusin-879b25208
 
 <!---
 PattyCoding123/PattyCoding123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
