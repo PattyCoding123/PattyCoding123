@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PattyCoding123
 - 👀 I’m interested in mathematics, physics, video games, and much more!
-- 🌱 I’m currently learning Python and c++
+- 🌱 I’m currently learning Python, C++, and Java
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... linkedin: linkedin.com/in/patrick-ducusin-879b25208
 
