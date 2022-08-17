@@ -23,31 +23,54 @@
     I have completed projects such as a fullstack note-taking app, personal portfolio, and
     an eCommerce webpage.
   </p>
-  
+ 
+<!-- Pinned Repositories Section -->
 ## 📌 Pinned Repositories
 <br>
 
 <a href="https://github.com/PattyCoding123/ecommerce">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=ecommerce&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=ecommerce&theme=tokyonight"
+       alt="ecommerce repo"/>
 </a>
 
 <a href="https://github.com/PattyCoding123/personal-portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=personal-portfolio&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=personal-portfolio&theme=tokyonight"
+       alt="personal portfolio repo"/>
 </a>
 
 <br>
 
 <a href="https://github.com/PattyCoding123/mobile_motivation">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=mobile_motivation&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=mobile_motivation&theme=tokyonight"
+       alt="mobile motivation app repo"/>
 </a>
 
 <a href="https://github.com/PattyCoding123/my-notes-project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=my-notes-project&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=my-notes-project&theme=tokyonight" 
+       alt="notes app repo"/>
 </a>
 
 <br>
 <br>
- 
+<!-- End of Pinned Repositories Section -->
+
+<!-- Github Stats Section -->
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/PattyCoding123">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattyCoding123&hide=html,css&theme=tokyonight"
+       alt="My Top Languages"/>
+</a>
+
+<a href="https://github.com/PattyCoding123">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=PattyCoding123&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="My GitHub Stats" />
+</a>
+
+<br>
+<br>
+<!-- Github Stats Section -->
  
 <!-- MARKDOWN LINKS & IMAGES --> 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
