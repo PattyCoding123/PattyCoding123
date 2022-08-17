@@ -23,6 +23,30 @@
     I have completed projects such as a fullstack note-taking app, personal portfolio, and
     an eCommerce webpage.
   </p>
+  
+## 📌 Pinned Repositories
+<br>
+
+<a href="https://github.com/PattyCoding123/ecommerce">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=ecommerce&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/PattyCoding123/personal-portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=personal-portfolio&theme=tokyonight" />
+</a>
+
+<br>
+
+<a href="https://github.com/PattyCoding123/mobile_motivation">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=mobile_motivation&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/PattyCoding123/my-notes-project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=my-notes-project&theme=tokyonight" />
+</a>
+
+<br>
+<br>
  
  
 <!-- MARKDOWN LINKS & IMAGES --> 
