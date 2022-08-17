@@ -1,4 +1,4 @@
-<a href="https://github.com/PattyCoding123/personal-portfolio">
+<a href="https://patrickducusinportfolio.dev" target="_blank" rel="noopener noreferrer">
   <p align="center">
     <img src="/assets/github_profile.png" alt="My GitHub Banner">
   </p>
@@ -27,7 +27,7 @@
     You can reach me by:
     <ul>
       <li>email: patrickducusin2@gmail.com</li>
-      <li><a href="linkedin.com/in/patrick-ducusin-879b25208" target="_blank" ref="noopener noreferrer">linkedin.com/in/patrick-ducusin-879b25208</a></li>
+      <li><a href="linkedin.com/in/patrick-ducusin-879b25208" target="_blank" rel="noopener noreferrer">linkedin.com/in/patrick-ducusin-879b25208</a></li>
   </p>
  
 <!-- Pinned Repositories Section -->
