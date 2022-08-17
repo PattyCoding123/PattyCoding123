@@ -27,7 +27,7 @@
     You can reach me by:
     <ul>
       <li>email: patrickducusin2@gmail.com</li>
-      <li><a href="linkedin.com/in/patrick-ducusin-879b25208" target="_blank" rel="noopener noreferrer">linkedin.com/in/patrick-ducusin-879b25208</a></li>
+      <li><a href="https://linkedin.com/in/patrick-ducusin-879b25208">linkedin.com/in/patrick-ducusin-879b25208</a></li>
   </p>
  
 <!-- Pinned Repositories Section -->
