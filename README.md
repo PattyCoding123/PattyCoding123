@@ -21,7 +21,7 @@
     <br />
     <br />
     I have completed projects such as a fullstack note-taking app, personal portfolio, and
-    an eCommerce webpage.
+    an eCommerce website.
     <br />
     <br />
     You can reach me by:
