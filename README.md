@@ -13,16 +13,14 @@
     I am Patrick Ducusin, or @PattyCoding123. I am a third-year student at Wayne State University, and I am currently 
     working towards my Bachelors of Science in Computer Science.
     <br />
+    <li>At the moment, I mostly work with Java, Python, and JavaScript.</li>
     <br />
-    At the moment, I mostly work with Java, Python, and JavaScript.
+    <li>Currently, I am trying to learn more front-end development with React.js</li>
     <br />
+    <li>I have completed projects such as a fullstack note-taking app, personal portfolio, and
+      an eCommerce website.</li>
     <br />
-    Currently, I am trying to learn more front-end development with React.js
-    <br />
-    <br />
-    I have completed projects such as a fullstack note-taking app, personal portfolio, and
-    an eCommerce website.
-    <br />
+    <li>My most recent project I collaborated on is <a href=https://github.com/WSU-4110/Degree-Door>Degree Door</a></li>
     <br />
     You can reach me by:
     <ul>
@@ -55,6 +53,12 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=my-notes-project&theme=tokyonight" 
        alt="notes app repo"/>
 </a>
+
+<a href="https://github.com/WSU-4110/Degree-Door">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-4110&repo=Degree-Door&theme=tokyonight" 
+       alt="notes app repo"/>
+</a>
+  
 
 <br>
 <br>
