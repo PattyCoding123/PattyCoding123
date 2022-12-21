@@ -14,7 +14,7 @@
     working towards my Bachelors of Science in Computer Science.
     <br />
     <br />
-    I mostly work with C++, Java, Python, and Dart, and JavaScript.
+    At the moment, I mostly work with Java, Python, and JavaScript.
     <br />
     <br />
     Currently, I am trying to learn more front-end development with React.js
