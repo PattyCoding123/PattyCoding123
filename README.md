@@ -20,7 +20,7 @@
     <li>I have completed projects such as a fullstack note-taking app, personal portfolio, and
       an eCommerce website.</li>
     <br />
-    <li>My most recent project I collaborated on is <a href=https://github.com/WSU-4110/Degree-Door>Degree Door</a></li>
+    <li>My most recent project I collaborated on is <a href="https://github.com/PattyCoding123/degree-door-dev">Degree Door</a></li>
     <br />
     You can reach me by:
     <ul>
