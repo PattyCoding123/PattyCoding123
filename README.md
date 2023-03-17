@@ -54,8 +54,8 @@
        alt="notes app repo"/>
 </a>
 
-<a href="https://github.com/WSU-4110/Degree-Door">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-4110&repo=Degree-Door&theme=tokyonight" 
+<a href="https://github.com/PattyCoding123/degree-door-dev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=degree-door-dev&theme=tokyonight" 
        alt="notes app repo"/>
 </a>
   
