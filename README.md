@@ -36,7 +36,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=degree-door-dev&theme=tokyonight" 
        alt="notes app repo"/>
 </a>
-<br>
+
 <a href="https://github.com/PattyCoding123/ecommerce">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=ecommerce&theme=tokyonight"
        alt="ecommerce repo"/>
@@ -46,8 +46,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=personal-portfolio&theme=tokyonight"
        alt="personal portfolio repo"/>
 </a>
-
-<br>
 
 <a href="https://github.com/PattyCoding123/mobile_motivation">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=mobile_motivation&theme=tokyonight"
