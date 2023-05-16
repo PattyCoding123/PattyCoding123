@@ -13,9 +13,11 @@
     I am Patrick Ducusin, or @PattyCoding123. I am a third-year student at Wayne State University, and I am currently 
     working towards my Bachelors of Science in Computer Science.
     <br />
-    <li>At the moment, I mostly work with Java, Python, and JavaScript.</li>
+	<li>Check out my <a href="https://next-blog-pattycoding123.vercel.app/">blog</a>.</li>
     <br />
-    <li>Currently, I am trying to learn more front-end development with React.js</li>
+    <li>At the moment, I mostly work with TypeScript, Python, and working with React.</li>
+    <br />
+    <li>Currently, I am trying to learn more fullstack development with NextJS</li>
     <br />
     <li>I have completed projects such as a fullstack note-taking app, personal portfolio, and
       an eCommerce website.</li>
