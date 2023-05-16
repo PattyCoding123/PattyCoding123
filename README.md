@@ -37,6 +37,11 @@
        alt="notes app repo"/>
 </a>
 
+<a href="https://github.com/PattyCoding123/next-blog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=next-blog&theme=tokyonight" 
+       alt="notes app repo"/>
+</a>
+
 <a href="https://github.com/PattyCoding123/ecommerce">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=ecommerce&theme=tokyonight"
        alt="ecommerce repo"/>
