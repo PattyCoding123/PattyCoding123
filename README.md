@@ -49,7 +49,7 @@
        alt="ecommerce repo"/>
 </a>
 
-<a href="https://github.com/PattyCoding123/personal-portfolio">
+<a href="https://github.com/PattyCoding123/personal-portfolio-v2">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PattyCoding123&repo=personal-portfolio&theme=tokyonight"
        alt="personal portfolio repo"/>
 </a>
