@@ -13,14 +13,14 @@
     I am Patrick Ducusin, or @PattyCoding123. I am a third-year student at Wayne State University, and I am currently 
     working towards my Bachelors of Science in Computer Science.
     <br />
-	<li>Check out <a href="https://next-blog-eight-teal-26.vercel.app">my blog</a>.</li>
+	<li>Check out <a href="https://next-blog-eight-teal-26.vercel.app">my blog</a></li>
     <br />
-    <li>At the moment, I mostly work with TypeScript, Python, and working with React.</li>
+    <li>At the moment, I mostly work with TypeScript, Python, and working with React</li>
     <br />
     <li>Currently, I am trying to learn more fullstack development with NextJS</li>
     <br />
     <li>I have completed projects such as a fullstack note-taking app, personal portfolio, and
-      an eCommerce website.</li>
+      an eCommerce website</li>
     <br />
     <li>My most recent project I worked on on is <a href="https://github.com/PattyCoding123/personal-portfolio-v2">reimagined personal portfolio</a></li>
     <br />
